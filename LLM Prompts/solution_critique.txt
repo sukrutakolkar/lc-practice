@@ -1,4 +1,4 @@
-For the given LeetCode problem and the provided code solution. Explain what the solution does and provide it's Time and Space complexity.
+For the given LeetCode problem and the provided code solution. Explain how the solution solves it (reasoning) and also provide it's Time and Space complexity.
 Then, critique the code and provide hints for further improvements, if any.
 
 Problem Description:
