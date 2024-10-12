@@ -1,6 +1,5 @@
 # 39. Combination Sum
 **Difficulty** - Medium
-
 **Topic(s)** - Array, Backtracking 
 
 ### Description
@@ -14,21 +13,21 @@ The test cases are generated such that the number of unique combinations that su
 
 Example 1:
 
->Input: candidates = [2,3,6,7], target = 7
->Output: [[2,2,3],[7]]
->Explanation:
->2 and 3 are candidates, and 2 + 2 + 3 = 7. Note that 2 can be used multiple times.
->7 is a candidate, and 7 = 7.
+>Input: candidates = [2,3,6,7], target = 7 <br>
+>Output: [[2,2,3],[7]]<br>
+>Explanation:<br>
+>2 and 3 are candidates, and 2 + 2 + 3 = 7. Note that 2 can be used multiple times.<br>
+>7 is a candidate, and 7 = 7.<br>
 >These are the only two combinations.
 
 Example 2:
 
->Input: candidates = [2,3,5], target = 8
+>Input: candidates = [2,3,5], target = 8<br>
 >Output: [[2,2,2,2],[2,3,3],[3,5]]
 
 Example 3:
 
->Input: candidates = [2], target = 1
+>Input: candidates = [2], target = 1<br>
 >Output: []
 
 ### Solution
