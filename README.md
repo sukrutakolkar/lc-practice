@@ -8,3 +8,5 @@ Repository to store solutions for LeetCode practice problems
 #79<br>
 #210<br>
 #155<br>
+#271<br>
+#42<br>
